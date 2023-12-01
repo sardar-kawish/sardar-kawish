@@ -1,4 +1,4 @@
-![logo](https://github.com/sardar-kawish/sardar-kawish/blob/main/Blue%2C%20Green%2C%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner.png)
+![logo](https://github.com/[sardar-kawish/sardar-kawish/blob/main/Blue%2C%20Green%2C%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner.png](https://github.com/sardar-kawish/sardar-kawish/blob/main/Baner%20-%20Made%20with%20PosterMyWall.mp4))
 <h1 align="center">Hi 👋, I'm sardar-kawish</h1>
 <h3 align="center">A passionate full stack developer from Azad Kashmir</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
