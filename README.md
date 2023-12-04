@@ -4,21 +4,23 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sardar-kawish&label=Profile%20views&color=0e75b6&style=flat" alt="sardar-kawish" /> </p>
 
-- 🌱 I’m currently learning Languages: **Python, JavaScript**
+- 🌱 I’m a **Full Stack Developer**
 
-- 🌱 I’m currently learning Frameworks: **Django, Bootstrap**
+- 🌱 I’m currently working on frameworks.: **Django, Bootstrap**
 
-- 🌱 I’m currently learning Languages, Front-end: **HTML, CSS,**
+- 🌱 I’m currently working on Languages, Front-end: **HTML, CSS, JavaScript, bootstrap.**
 
-- 💬 Ask me about [pythonpython python](pythonpython python)
+- 💬 Ask me about (Web Development, Front-End Development, HTML5, Javascript, CSS 3, Bootstrap (Framework), Back-End Web Development, Python, MySQL, PostgreSQL and Django)
 
 - 📫 How to reach me [kawishsardar3@gmail.com](kawishsardar3@gmail.com)
 
-- 🌱 I’m currently learning Databases: **MySQL, PostgreSQL**
+- 🌱 I’m currently working on Databases: **MySQL, PostgreSQL**
 
-- 🌱 I’m currently learning Tools: **Git, VS Code**
+- 🌱 I’m currently working on Tools: **Git, VS Code, Figma**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sardar-kawish](https://github.com/sardar-kawish)
+
+- 👨‍💻 My Project link is ** http://sardarkawish.pythonanywhere.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
